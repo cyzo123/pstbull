@@ -1,4 +1,4 @@
-# pst-analyser
+# pstbull
 analyse pst and its data
 
 **compatable os**
