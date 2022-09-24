@@ -1,6 +1,9 @@
 # pstbull
 analyse pst and its data
 
+**must have** latest version of python
+(https://www.python.org/downloads/)
+
 **compatable os**
   linux 
   windows
