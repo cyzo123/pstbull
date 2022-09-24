@@ -22,5 +22,5 @@ analyse pst and its data
   get ip address 
   get name sender and receiver
   check phishing links 
-  validating url
+  validating urls
   
